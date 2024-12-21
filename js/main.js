@@ -304,3 +304,10 @@ function detectDayNightMode() {
     enableDarkMode();
   }
 }
+
+//resume download
+document.getElementById("resume-bt").addEventListener("click", function () {
+  // Specify the file URL
+  const fileUrl = "Taghreed Rabee.pdf"; // Replace with the actual file path or URL
+  window.open(fileUrl, "_blank");
+});

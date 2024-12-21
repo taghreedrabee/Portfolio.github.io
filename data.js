@@ -66,12 +66,12 @@ export const projects = {
       techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
     },
     {
-      projectName: "Web Portfolio",
-      image: "images/portfolio.png",
+      projectName: "E-Commerce Backend",
+      image: "images/ecommerce.png",
       summary:
-        "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
+        "Full E-commerce Backend using .Net and SQL Server and it was graduation project for career180",
+      preview: "https://github.com/taghreedrabee/E-Commerce",
+      techStack: [".NET", "Stripe", "JWT", "SQL Server"],
     },
     {
       projectName: "Resume Builder",
@@ -148,77 +148,58 @@ export const projects = {
 
 export const experience = [
   {
-    title: "Shiprocket (Bigfoot Solution Private Limited)",
-    duration: "September 2022 - Present",
-    subtitle: "Software Engineer",
-    details: ["Working in support and escalation team."],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
-    icon: "truck ",
+    title: "Internship Backend (.Net) BootCamp, Learn It & Career 180",
+    duration: "OCT 2024 - DEC 2024",
+    subtitle: "SDE Intern",
+    details: [
+      `Proficiency in C# programming, Object-Oriented Programming (OOP) principles, clean coding 
+practices, and SOLID principles. `,
+      `Mastering data structures, database management with SQL Server and NoSQL, and API 
+development using ASP.NET Core. `,
+      `Developing API projects with CRUD operations and using the Entity Framework for seamless 
+database connections. `,
+    ],
+    tags: [
+      "C#",
+      "OOP",
+      "Data Structure",
+      "Clean Code",
+      "Solid Principles",
+      "Exception Handling",
+      "SQL Server",
+      "NoSQl",
+      "ASP.NET CORE",
+      "JSON and API",
+    ],
+    icon: "",
   },
   {
-    title: "Biofourmis India Private Limited",
-    duration: "April 2022 - Jul 2023",
-    subtitle: "Software Engineer",
+    title: "Frontend Web Development, DEPI",
+    duration: "May 2024 - Nov 2024",
+    subtitle: "Frontend Developer",
     details: [
-      `Implemented microfrontends using the Module Federation Plugin in Angular.
-            Rendered components from remote modules/repositories, enabling a modular and scalable architecture`,
-      `Upgraded application with a dynamic base URL for flexible operation across multiple regions and verticals, leading to
-            recognition with the Biofourmis Bravo award in Q1, 2023.`,
-      `Implemented RxState for managing local state in components, resulting in elegant and reactive facades.`,
-      `Utilized Twilio-Video for group video call rooms and Countly for Web Analytics.`,
-      `Integrated NGXS WebSocket, enhancing state management and replacing legacy service injections.`,
-      `Implemented extensive RxJS usage for reactive programming, resulting in efficient data handling, improved state
-            management, and enhanced application performance.`,
-      `Dramatically optimized load time and performance through code splitting, lazy loading, caching, and preload`,
-      `Enhanced video call experience by implementing real-time switching of I/O devices and audio level indicators,
-            resulting in reduced audio issues and increased user satisfaction.`,
-      `Owned and led successful Angular application upgrades from version 12 to 13 and 14, improving performance
-            and enhancing features.`,
+      "gaining various technical skills including, UI/UX, HTML, CSS, JavaScript, an introduction to TypeScript and Angular.",
+      "I worked on various projects related to JavaScript and Angular, which included the crafting of the Angular project with my team",
     ],
     tags: [
       "JavaScript",
       "Angular",
-      "RxJS",
-      "NGXS",
-      "TypeScript",
-      "RxState",
-      "Webpack",
-      "Optimization",
+      "Bootstrap",
+      "Typescript",
+      "Html",
+      "CSS3",
+      "PrimeNg",
+      "PrimeFlex",
     ],
-    icon: "heartbeat",
-  },
-  {
-    title: "Novopay Solutions Private Limited",
-    duration: "June 2020 - April 2022",
-    subtitle: "Software Engineer",
-    details: [
-      `Implemented AePS Services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements,
-            and Money transfer.`,
-      `Implemented QR Code integration for retailer wallet money loading, Clevertap events for user action tracking,
-            Freshdesk ticketing, Chatbot services, and Retailer onboarding/admin interfaces.`,
-      `Developed retailer QR code system for seamless money loading into wallets, resulting in improved user transactions.`,
-      `Achieved 70 percent code coverage of the entire application by writing unit tests for legacy code.`,
-    ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
-    icon: "qrcode",
-  },
-  {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
-    details: [
-      `Developed a customer web application for social media management, supporting the advertisement domain.`,
-    ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-    icon: "group",
+    icon: "",
   },
 ];
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "IT, Computer Science and AI, Helwan University",
+    duration: "2020 - 2024",
+    subtitle: "Helwan University",
     details: [],
     tags: [
       "Data Structures & Algorithms",
@@ -226,80 +207,73 @@ export const education = [
       "Database Management System",
       "Computer Networks",
       "Compiler Designing",
-      "Cloud Computing",
+      "Software Engineering",
+      "Image Processing",
+      "Artificial intelligence(AI)",
+      "Graphic Design",
+      "Computer Archeticture",
+      "Microprocessor",
     ],
     icon: "graduation-cap",
-  },
-  {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
-    details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
-    icon: "book",
   },
 ];
 
 export const footer = [
-  //   {
-  //     label: "Dev Profiles",
-  //     data: [
-  //       {
-  //         text: "Stackoverflow",
-  //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-  //       },
-  //       {
-  //         text: "GitHub",
-  //         link: "https://github.com/vinaysomawat",
-  //       },
-  //       {
-  //         text: "LeetCode",
-  //         link: "https://leetcode.com/somawatvinay/",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     label: "Resources",
-  //     data: [
-  //       {
-  //         text: "Enable Dark/Light Mode",
-  //         func: "enableDarkMode()",
-  //       },
-  //       {
-  //         text: "Print this page",
-  //         func: "window.print()",
-  //       },
-  //       {
-  //         text: "Clone this page",
-  //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-  //       },
-  //     ],
-  //   },
   {
-    label: "Links",
+    label: "Dev Profiles",
     data: [
-      //   {
-      //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
-      //   },
-      //   {
-      //     text: "Twitter",
-      //     link: "https://twitter.com/thesigmakid",
-      //   },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        text: "Github",
+        link: "https://github.com/taghreedrabee",
       },
       {
-        text: "Github/vinaysomawat.github.io",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        text: "Linkedin",
+        link: "https://linkedin.com/in/taghreedrabee",
       },
     ],
   },
+  // {
+  //   label: "Resources",
+  //   data: [
+  //     {
+  //       text: "Enable Dark/Light Mode",
+  //       func: "enableDarkMode()",
+  //     },
+  //     {
+  //       text: "Print this page",
+  //       func: "window.print()",
+  //     },
+  //     {
+  //       text: "Clone this page",
+  //       link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+  //     },
+  //   ],
+  // },
+  // {
+  //   label: "Links",
+  //   data: [
+  //     {
+  //       text: "Linkedin",
+  //       link: "https://linkedin.com/in/taghreedrabee",
+  //     },
+  //     //   {
+  //     //     text: "Twitter",
+  //     //     link: "https://twitter.com/thesigmakid",
+  //     //   },
+  //     // {
+  //     //   text: "Buy me a coffee",
+  //     //   link: "https://www.buymeacoffee.com/r194dME8y",
+  //     // },
+  //     {
+  //       text: "Github",
+  //       link: "https://github.com/taghreedrabee",
+  //     },
+  //   ],
+  // },
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
+      "Made with &hearts; by Taghreed Rabee.",
       "&copy; No Copyrights. Feel free to use this template.",
     ],
   },
