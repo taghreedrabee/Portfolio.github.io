@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg18">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4632">
+      <path
+         style="fill:#febd38;fill-opacity:1;stroke-width:1"
+         id="path4634"
+         d="m 3.9867309,1031.4736 v 8.9264 c 0,3.7938 3.2340409,7.1412 8.0132691,8.9264 4.779342,-1.7852 8.013269,-5.1326 8.013269,-8.9264 v -8.9264 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4652">
+      <path
+         style="fill:#febd38;fill-opacity:1;stroke-width:0.99999994"
+         id="path4654"
+         d="m 3.9999998,1031.4 v 9 c 0,3.8251 3.2286857,7.2002 8.0000002,9 4.771428,-1.7998 8,-5.1749 8,-9 v -9 z" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(-2,-1034.4)"
+     id="g16">
+    <path
+       style="opacity:1;fill:#404040;fill-opacity:1;stroke-width:0.99999994"
+       d="m 3,1034.4 v 8 c 0,3.36 2.8250444,6.4 7,8 4.175111,-1.6 7,-4.64 7,-8 v -8 h -7 z"
+       id="path4" />
+    <path
+       d="m 3.9999998,1035.4 v 7 c 0,2.9751 2.4215143,5.6002 6.0000001,7 C 13.578571,1048.0002 16,1045.3751 16,1042.4 v -7 z"
+       id="path8"
+       style="fill:#febd38;fill-opacity:1;stroke-width:0.99999988" />
+    <path
+       style="display:inline;fill:#006cca;fill-opacity:1;stroke-width:0.99999988"
+       clip-path="none"
+       d="m 8,7 v 8 c 3.578571,-1.3998 6,-4.0249 6,-7 V 7 Z"
+       transform="translate(2,1034.4)"
+       id="rect4656" />
+    <rect
+       style="display:inline;fill:#006cca;fill-opacity:1;stroke-width:0.99999994"
+       id="rect4628"
+       x="3.9999998"
+       y="1035.4"
+       width="6"
+       height="6" />
+  </g>
+</svg>

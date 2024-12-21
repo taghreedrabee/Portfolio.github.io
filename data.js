@@ -1,33 +1,31 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
-  "Thanks for visiting!",
+  "Fresh graduate developer with expertise in both frontend and backend development. Skilled in Angular, HTML, CSS, and JavaScript for crafting seamless user experiences, and proficient in .NET for robust backend solutions. Experienced in using C#, ASP.NET Core, SQL Server, and Entity Framework to build scalable, data-driven web applications. Eager to enhance user experiences, collaborate with dynamic teams, and grow through innovative projects, continuous learning, and creative problem-solving.",
 ];
 
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "JavaScript, TypeScript, C#",
     color: "1",
-    percentage: "80",
+    percentage: "70",
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "Angular, RxJS, NGRX/NGXS",
+    skillName: "Angular, .NET",
     color: "6",
-    percentage: "70",
+    percentage: "60",
   },
   {
     title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    skillName: "HTML , CSS3 , Bootstrap",
     color: "4",
-    percentage: "70",
+    percentage: "90",
   },
   {
     title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    skillName: "GitHub",
     color: "7",
-    percentage: "70",
+    percentage: "80",
   },
   {
     title: "Tools",
@@ -35,29 +33,29 @@ export const skills = [
     color: "3",
     percentage: "80",
   },
-//   {
-//     title: "Analytics",
-//     skillName: "CleverTap, Countly",
-//     color: "5",
-//     percentage: "50",
-//   },
-//   {
-//     title: "IDE",
-//     skillName: "VS Code",
-//     color: "6",
-//     percentage: "70",
-//   },
+  //   {
+  //     title: "Analytics",
+  //     skillName: "CleverTap, Countly",
+  //     color: "5",
+  //     percentage: "50",
+  //   },
+  //   {
+  //     title: "IDE",
+  //     skillName: "VS Code",
+  //     color: "6",
+  //     percentage: "70",
+  //   },
 ];
 
 export const projects = {
   webProjects: [
     {
-      projectName: "Programming Diaries",
-      image: "images/programmingdiaries.png",
+      projectName: "Car Aveneu",
+      image: "images/car-aveneu.png",
       summary:
-        "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-      preview: "https://programmingdiaries.herokuapp.com/",
-      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+        "Developed a Car Dealership Frontend Website using Angular as a graduation project from DEPI.",
+      preview: "https://mohamed-rabee3.github.io/Car_Aveneu_Website/home",
+      techStack: ["Angular", "PrimeNG", "Bootstrap", "JavaScript", "PrimeFlex"],
     },
     {
       projectName: "Find Your Bank",
@@ -243,51 +241,51 @@ export const education = [
 ];
 
 export const footer = [
-//   {
-//     label: "Dev Profiles",
-//     data: [
-//       {
-//         text: "Stackoverflow",
-//         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-//       },
-//       {
-//         text: "GitHub",
-//         link: "https://github.com/vinaysomawat",
-//       },
-//       {
-//         text: "LeetCode",
-//         link: "https://leetcode.com/somawatvinay/",
-//       },
-//     ],
-//   },
-//   {
-//     label: "Resources",
-//     data: [
-//       {
-//         text: "Enable Dark/Light Mode",
-//         func: "enableDarkMode()",
-//       },
-//       {
-//         text: "Print this page",
-//         func: "window.print()",
-//       },
-//       {
-//         text: "Clone this page",
-//         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-//       },
-//     ],
-//   },
+  //   {
+  //     label: "Dev Profiles",
+  //     data: [
+  //       {
+  //         text: "Stackoverflow",
+  //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+  //       },
+  //       {
+  //         text: "GitHub",
+  //         link: "https://github.com/vinaysomawat",
+  //       },
+  //       {
+  //         text: "LeetCode",
+  //         link: "https://leetcode.com/somawatvinay/",
+  //       },
+  //     ],
+  //   },
+  //   {
+  //     label: "Resources",
+  //     data: [
+  //       {
+  //         text: "Enable Dark/Light Mode",
+  //         func: "enableDarkMode()",
+  //       },
+  //       {
+  //         text: "Print this page",
+  //         func: "window.print()",
+  //       },
+  //       {
+  //         text: "Clone this page",
+  //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+  //       },
+  //     ],
+  //   },
   {
     label: "Links",
     data: [
-    //   {
-    //     text: "Linkedin",
-    //     link: "https://www.linkedin.com/in/vinaysomawat/",
-    //   },
-    //   {
-    //     text: "Twitter",
-    //     link: "https://twitter.com/thesigmakid",
-    //   },
+      //   {
+      //     text: "Linkedin",
+      //     link: "https://www.linkedin.com/in/vinaysomawat/",
+      //   },
+      //   {
+      //     text: "Twitter",
+      //     link: "https://twitter.com/thesigmakid",
+      //   },
       {
         text: "Buy me a coffee",
         link: "https://www.buymeacoffee.com/r194dME8y",
